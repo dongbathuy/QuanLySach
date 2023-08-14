@@ -1,0 +1,14 @@
+D:\20206173_DongBaThuy\20206173_DongBaThuy\bin\Debug\20206173_DongBaThuy.exe.config
+D:\20206173_DongBaThuy\20206173_DongBaThuy\bin\Debug\20206173_DongBaThuy.exe
+D:\20206173_DongBaThuy\20206173_DongBaThuy\bin\Debug\20206173_DongBaThuy.pdb
+D:\20206173_DongBaThuy\20206173_DongBaThuy\obj\Debug\20206173_DongBaThuy.csproj.AssemblyReference.cache
+D:\20206173_DongBaThuy\20206173_DongBaThuy\obj\Debug\20206173_DongBaThuy.csproj.CoreCompileInputs.cache
+D:\20206173_DongBaThuy\20206173_DongBaThuy\obj\Debug\20206173_DongBaThuy.exe
+D:\20206173_DongBaThuy\20206173_DongBaThuy\obj\Debug\20206173_DongBaThuy.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Kỹ thuật lập trình\20206173_DongBaThuy\20206173_DongBaThuy\bin\Debug\20206173_DongBaThuy.exe.config
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Kỹ thuật lập trình\20206173_DongBaThuy\20206173_DongBaThuy\bin\Debug\20206173_DongBaThuy.exe
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Kỹ thuật lập trình\20206173_DongBaThuy\20206173_DongBaThuy\bin\Debug\20206173_DongBaThuy.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Kỹ thuật lập trình\20206173_DongBaThuy\20206173_DongBaThuy\obj\Debug\20206173_DongBaThuy.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Kỹ thuật lập trình\20206173_DongBaThuy\20206173_DongBaThuy\obj\Debug\20206173_DongBaThuy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Kỹ thuật lập trình\20206173_DongBaThuy\20206173_DongBaThuy\obj\Debug\20206173_DongBaThuy.exe
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Kỹ thuật lập trình\20206173_DongBaThuy\20206173_DongBaThuy\obj\Debug\20206173_DongBaThuy.pdb

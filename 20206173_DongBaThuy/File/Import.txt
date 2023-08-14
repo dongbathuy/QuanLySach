@@ -1,0 +1,5 @@
+﻿Số đăng ký;Tên sách;Tên Tác Giả;Nhà xuất bản;Năm xuất bản;Số ISBN
+100362;Tấm Cám;Tân Việt, Ngọc Tuấn Phạm;Nhà xuất bản Mỹ Thuật;2012;9780689838446
+125630;Sọ Dừa;Thụy Anh;Nhà xuất bản Kim Đồng;2007;9780152020354
+112377;Truyện Thạch Sanh;Tá Nhí;Nhà xuất bản Văn Học;1987;9780152001926
+003272;Sự Tích Trầu Cau;Ngọc Cầm;Nhà xuất bản Văn hóa Sài Gòn;2006;9781416927273
